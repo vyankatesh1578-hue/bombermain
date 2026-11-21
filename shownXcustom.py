@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SMS Blast Bot v4.0-ULTRA
+SHOWN
 Upgrades:
   - Quote (<blockquote>) on every bot reply + log channel
   - Auto Backup Manager (private GC, admin-controlled interval)
